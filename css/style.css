@@ -1,0 +1,6 @@
+body {
+    background: #eee;
+}
+.navbar-brand .navbar-item {
+    line-height: 1000px!important;
+}
